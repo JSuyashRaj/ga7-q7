@@ -1,0 +1,101 @@
+employee_id,department,region,performance_score,years_experience,satisfaction_rating
+EMP001,Operations,Asia,59.33,20,2.3
+EMP002,R&D,North America,94.63,8,4.2
+EMP003,Sales,North America,76.97,7,2.1
+EMP004,R&D,North America,90.37,3,2.8
+EMP005,R&D,Asia,94.8,17,1.3
+EMP006,Finance,North America,65.9,1,1.1
+EMP007,Sales,Middle East,55.5,16,4.9
+EMP008,Sales,North America,61.4,12,4.3
+EMP009,Sales,Middle East,71.36,19,3.8
+EMP010,R&D,Middle East,90.9,14,2.6
+EMP011,Operations,Middle East,93.04,6,1.7
+EMP012,Sales,Asia,50.35,6,1.6
+EMP013,IT,Asia,75.54,13,2.0
+EMP014,R&D,Asia,70.87,19,3.2
+EMP015,Finance,North America,61.11,8,3.9
+EMP016,Operations,Middle East,55.99,2,3.6
+EMP017,IT,Asia,66.88,1,2.1
+EMP018,IT,Asia,97.15,15,4.8
+EMP019,Finance,North America,66.16,1,4.0
+EMP020,Operations,Asia,75.94,5,3.2
+EMP021,R&D,North America,85.15,16,3.4
+EMP022,HR,Europe,68.18,19,2.7
+EMP023,Operations,Asia,98.59,4,2.0
+EMP024,Finance,Europe,98.12,3,2.4
+EMP025,IT,North America,62.59,17,4.0
+EMP026,R&D,Middle East,74.86,17,1.1
+EMP027,Operations,Asia,65.04,12,1.5
+EMP028,HR,North America,64.24,14,1.2
+EMP029,HR,Middle East,51.84,6,1.2
+EMP030,Sales,Middle East,80.48,3,4.4
+EMP031,Sales,Europe,75.13,9,3.8
+EMP032,Finance,North America,52.57,5,2.9
+EMP033,Operations,Middle East,63.93,17,1.4
+EMP034,Operations,Asia,95.41,14,3.0
+EMP035,IT,Asia,61.98,3,2.9
+EMP036,IT,Europe,57.24,1,1.7
+EMP037,IT,Middle East,74.47,20,2.7
+EMP038,Sales,North America,99.28,1,2.6
+EMP039,Operations,Asia,62.1,3,3.5
+EMP040,Operations,Middle East,83.61,18,3.5
+EMP041,HR,Middle East,88.08,10,1.2
+EMP042,Sales,Europe,61.88,3,2.5
+EMP043,R&D,Asia,86.41,8,3.5
+EMP044,Sales,Asia,68.39,14,3.0
+EMP045,R&D,North America,81.62,18,4.4
+EMP046,HR,Asia,81.68,15,3.6
+EMP047,Finance,North America,76.79,2,1.7
+EMP048,Operations,Asia,54.51,10,1.3
+EMP049,HR,Europe,91.77,2,3.6
+EMP050,Operations,Asia,66.04,17,1.1
+EMP051,IT,North America,59.33,8,3.3
+EMP052,Finance,North America,52.04,1,4.8
+EMP053,Finance,Europe,79.54,9,3.3
+EMP054,HR,Asia,83.88,11,2.6
+EMP055,Finance,Asia,50.83,16,3.6
+EMP056,R&D,Europe,75.6,7,2.8
+EMP057,Finance,Asia,61.32,10,3.2
+EMP058,Operations,Asia,82.26,3,4.8
+EMP059,Operations,North America,58.72,18,2.5
+EMP060,Operations,Asia,84.55,13,4.8
+EMP061,Operations,Asia,69.34,7,4.6
+EMP062,R&D,Europe,96.84,4,1.8
+EMP063,Sales,Europe,56.88,13,1.3
+EMP064,IT,Middle East,67.05,20,1.4
+EMP065,HR,North America,55.67,1,1.1
+EMP066,Operations,Asia,96.23,8,1.4
+EMP067,Finance,Asia,93.87,14,3.7
+EMP068,Operations,Middle East,62.9,16,1.3
+EMP069,Finance,Asia,83.0,14,2.3
+EMP070,IT,North America,90.86,12,4.4
+EMP071,IT,Middle East,77.76,19,1.1
+EMP072,IT,North America,76.48,15,4.3
+EMP073,Finance,Middle East,62.09,2,2.1
+EMP074,Operations,Middle East,54.66,2,1.5
+EMP075,IT,Europe,94.86,19,3.8
+EMP076,R&D,North America,95.02,17,3.5
+EMP077,Finance,Asia,81.66,20,4.5
+EMP078,Finance,Asia,66.95,10,3.9
+EMP079,Operations,North America,67.46,6,4.2
+EMP080,Finance,Asia,86.3,15,2.1
+EMP081,Finance,Asia,94.86,11,1.7
+EMP082,IT,North America,94.35,5,4.0
+EMP083,Operations,Middle East,88.99,1,4.2
+EMP084,IT,North America,82.1,8,5.0
+EMP085,IT,Middle East,54.21,12,2.7
+EMP086,Operations,Asia,58.08,12,2.5
+EMP087,HR,Asia,94.93,5,4.1
+EMP088,IT,Asia,80.32,7,2.4
+EMP089,R&D,Europe,50.46,4,4.7
+EMP090,R&D,Middle East,55.07,6,4.4
+EMP091,Finance,Europe,83.18,13,2.7
+EMP092,R&D,Europe,50.25,20,4.0
+EMP093,Finance,North America,58.04,15,4.0
+EMP094,HR,Europe,77.44,3,1.4
+EMP095,Operations,North America,84.59,8,4.6
+EMP096,Operations,North America,82.6,20,3.0
+EMP097,Operations,Europe,61.21,16,4.3
+EMP098,R&D,Middle East,85.61,13,2.3
+EMP099,HR,Middle East,61.86,18,4.6
+EMP100,R&D,Middle East,66.27,10,2.6
